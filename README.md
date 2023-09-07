@@ -1,8 +1,8 @@
 ### Hi there, I'm Davis...
 
-## I'm currently a research assistant working on clustering general mortality experience based on geography
-## I'm also currently a teaching assistant for BYU's long-term actuarial mathematics course
-## I had a remarkable internship experience this summer with Milliman CMH automating spreadsheet processes, researching health equity and long-term care, and updating model inputs
+#### I'm currently a research assistant working on clustering general mortality experience based on geography
+#### I'm also currently a teaching assistant for BYU's long-term actuarial mathematics course
+#### I had a remarkable internship experience this summer with Milliman CMH automating spreadsheet processes, researching health equity and long-term care, and updating model inputs
 
 <!--
 **davisdowdle/davisdowdle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
